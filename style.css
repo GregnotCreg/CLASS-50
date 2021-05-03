@@ -1,0 +1,22 @@
+h1{
+    background-color: rgb(255, 145, 0);
+}
+*{
+    border:solid;
+}
+.header{
+    background-color: black;
+    display: flex;
+    justify-content:space-around
+}
+.greg{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+.bob{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: black;
+}
